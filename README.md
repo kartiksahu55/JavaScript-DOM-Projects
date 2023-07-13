@@ -9,11 +9,11 @@ Each project in this repository is designed to be concise, standalone, and easy 
 Here's a list of projects currently available in this repository:
 
 1. Project 1: [Counter App](./1.%20Counter) 
-2. Project 2: [Quiz App](./project2)
-3. Project 3: [Password Generator](./project2)
-4. Project 4: [Note Pad](./project3)
-5. Project 5: [TODO List App](./project3)
-6. Project 6: [GitHub User Details](./project3)
+2. Project 2: [Quiz App](./2.%20Quiz%20App)
+3. Project 3: [Password Generator](./3.%20Password%20Generator)
+4. Project 4: [Note Pad](./4.%20Note%20Pade)
+5. Project 5: [TODO List App](./5.%20ToDo%20List%20App)
+6. Project 6: [GitHub User Details](./6.%20GitHub%20User%20Details)
 
 ### Project 1: Counter App
 
