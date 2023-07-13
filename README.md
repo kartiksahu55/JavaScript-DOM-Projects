@@ -15,27 +15,27 @@ Here's a list of projects currently available in this repository:
 5. Project 5: [TODO List App](./project3)
 6. Project 6: [GitHub User Details](./project3)
 
-## Project 1: Counter App
+### Project 1: Counter App
 
 The Counter App is a simple JavaScript application that allows you to increment, decrement, and reset a counter value on a web page.
 
-## Project 2: Quiz App
+### Project 2: Quiz App
 
 The Quiz App is a JavaScript application that presents a set of questions to the user and checks their answers, providing a final score at the end.
 
-## Project 3: Password Generator
+### Project 3: Password Generator
 
 The Password Generator is a JavaScript application that generates a random password based on user-defined criteria, such as length and character types.
 
-## Project 4: Note Pad
+### Project 4: Note Pad
 
 The Note Pad is a JavaScript application that allows users to create, edit, and delete notes, providing a simple interface for organizing information.
 
-## Project 5: TODO List App
+### Project 5: TODO List App
 
 The TODO List App is a JavaScript application that helps users keep track of tasks or items they need to complete, allowing them to add, mark as done, and remove items from the list.
 
-## Project 6: GitHub User Details
+### Project 6: GitHub User Details
 
 The GitHub User Details project is a JavaScript application that fetches and displays information about a GitHub user, such as their username, bio, and repositories.
 
