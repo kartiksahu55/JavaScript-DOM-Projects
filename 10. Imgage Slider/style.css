@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+main{
+    width: 600px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.container{
+    width: 500px;
+    height: 250px;
+    margin: 100px auto;
+    box-shadow: 0 0 5px 1px grey;
+    position: relative;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.slide{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    transition: ease-in .5s;
+}
+
+.btn{
+    font-size: 1.1em;
+    margin: .8em;
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: rgb(33, 85, 85);
+    color: #fff;
+    border: none;
+}
+.btn:active{
+    box-shadow: inset 0 0 5px 1px rgb(211, 246, 224);
+}
