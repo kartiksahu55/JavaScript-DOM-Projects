@@ -4,7 +4,7 @@ Welcome to the JavaScript DOM Projects repository! This repository contains a co
 
 Each project in this repository is designed to be concise, standalone, and easy to understand. They cover a range of DOM-related concepts and techniques, allowing you to strengthen your skills and explore different ways of interacting with web pages dynamically.
 
-## 🧑‍💻Project List
+## Project List🧑‍💻
 
 Here's a list of projects currently available in this repository:
 
