@@ -4,16 +4,33 @@ Welcome to the JavaScript DOM Projects repository! This repository contains a co
 
 Each project in this repository is designed to be concise, standalone, and easy to understand. They cover a range of DOM-related concepts and techniques, allowing you to strengthen your skills and explore different ways of interacting with web pages dynamically.
 
-## Project List
+## 🧑‍💻Project List
 
 Here's a list of projects currently available in this repository:
 
-1. Project 1: [Counter App](./1.%20Counter) 
-2. Project 2: [Quiz App](./2.%20Quiz%20App)
-3. Project 3: [Password Generator](./3.%20Password%20Generator)
-4. Project 4: [Note Pad](./4.%20Note%20Pade)
-5. Project 5: [TODO List App](./5.%20ToDo%20List%20App)
-6. Project 6: [GitHub User Details](./6.%20GitHub%20User%20Details)
+👉 Project 1: [Counter App](./1.%20Counter) 
+
+👉 Project 2: [Quiz App](./2.%20Quiz%20App)
+
+👉 Project 3: [Password Generator](./3.%20Password%20Generator)
+
+👉 Project 4: [Note Pad](./4.%20Note%20Pade)
+
+👉 Project 5: [TODO List App](./5.%20ToDo%20List%20App)
+
+👉 Project 6: [GitHub User Details](./6.%20GitHub%20User%20Details)
+
+👉 Project 7: [Movie Search App](./7.%20Movie%20Search%20App)
+
+👉 Project 8: [Weather App](./8.%20Weather%20App)
+
+👉 Project 9: [Random Paragraph Generator](./9.%20Random%20Paragraph%20Generator)
+
+👉 Project 10: [Image Slider](./10.%20Imgage%20Slider)
+
+👉 Project 11: [Meme Generator](./11.%20Meme%20Generator)
+
+👉 Project 12: [Clock](./12.%20Clock)
 
 ### Project 1: Counter App
 
@@ -38,6 +55,30 @@ The TODO List App is a JavaScript application that helps users keep track of tas
 ### Project 6: GitHub User Details
 
 The GitHub User Details project is a JavaScript application that fetches and displays information about a GitHub user, such as their username, bio, and repositories.
+
+### Project 7: Movie Search App
+
+The Movie Search App is a JavaScript application that allows users to search for movies, providing details such as titles.
+
+### Project 8: Weather App
+
+The Weather App is a JavaScript application that fetches and displays weather information for a specific location.
+
+### Project 9: Random Paragraph Generator
+
+The Random Paragraph Generator is a JavaScript application that generates random paragraphs of text, useful for generating placeholder content or testing layouts.
+
+### Project 10: Image Slider
+
+The Image Slider is a JavaScript application that displays a slideshow of images, allowing users to navigate through them manually or automatically.
+
+### Project 11: Meme Generator
+
+The Meme Generator is a JavaScript application that enables users to get popular meme template text.
+
+### Project 12: Clock
+
+The Clock project is a JavaScript application that displays a live clock with the current time, updating every second.
 
 Feel free to explore each project, try them out, and dive into the source code to understand how they work and improve your JavaScript skills!
 
